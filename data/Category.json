@@ -1,31 +1,28 @@
 [
   {
     "id": "01",
-    "name": "Breaking News"
+    "name": "web design"
   },
   {
     "id": "02",
-    "name": "Regular News"
+    "name": "web development"
   },
   {
     "id": "03",
-    "name": "International News"
+    "name": "graphic design"
   },
   {
     "id": "04",
-    "name": "Sports"
+    "name": "SCO"
   },
   {
     "id": "05",
-    "name": "Entertainment"
+    "name": "digital marketing"
   },
-  {
-    "id": "06",
-    "name": "Culture"
-  },
+ 
   {
     "id": "07",
-    "name": "Arts"
+    "name": "data entry"
   },
   {
     "id": "08",
